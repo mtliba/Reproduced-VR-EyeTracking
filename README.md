@@ -7,7 +7,7 @@ The processed datasetis now available at this [link](https://drive.google.com/dr
 
 Reference :
 
-VR-EyeTracking Dataset [paper](https://drive.google.com/drive/folders/1y6hCYOdn7BbBguxfBfOhgoUW_1DygET1?usp=sharing)
+VR-EyeTracking Dataset [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Gaze_Prediction_in_CVPR_2018_paper.pdf)
 
-VR-EyeTracking Dataset [github repository](https://drive.google.com/drive/folders/1y6hCYOdn7BbBguxfBfOhgoUW_1DygET1?usp=sharing)
+VR-EyeTracking Dataset [github repository](https://github.com/xuyanyu-shh/VR-EyeTracking)
 
