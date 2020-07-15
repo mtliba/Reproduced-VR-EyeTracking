@@ -1,4 +1,4 @@
-# Resproduced-VR-EyeTracking
+# Reproduced-VR-EyeTracking
 In this work we are providing an access to a reproduced version of VR-EyeTracking Dataset.
 VR-EyeTracking Dataset consists  of  208  diverse  content  4k  ODVs.  The head/eye saccades were obtained from 45 participants. 
 However,no  fixation  and  saliency  maps  were  published  publicly before now. Here We processed the gaze recording to obtain the 2048×1024 fixation maps.
